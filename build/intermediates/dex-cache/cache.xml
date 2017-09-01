@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_5998fe4bbf2d5f21ad9b516fbd7fba4d767eef82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_2d8c9ae23632a791e6b7900a1ff9df0667af08c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_3e77a3dd8c3f7e1ab68c8592e01b650337964326/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_2d94ea013bd20b419b7b2f5e2eb9eb9dcc43101d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_af6a03e7c78075f6ee4f154b6ca56168ca42761e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_ff04ba900ec1d79fe938ae69acb9c2842351ecbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="431baf99af854830c48d2ad7ccc88c7b05163589">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb01deec69ac1ff2b47b5a7b6bb48e5633dbb6d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_8c15c8d16e885a38b7c1c236c75d2d61aa92d292/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7b30afdec9657a669b2fc2a9d496358a3e14b5e8">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1d7b04e66159e88bf2a13233f5df9671372b5cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_d69f1c17c98422bdf1f2a78d876aa695bf64c31f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a4c7739eb2ca02c869045586d6f9c659c0867309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_8498363f7bd3140dea2c20e9a48bf7e8b939b588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_a27b2757f74b527916ded5144284777f2c29306b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_83fc3db0ca8db3a0ea95995931aa08fe66fd7a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/putuguna/AndroidStudioProjects/DoubleNavDrawer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_e9e5c85ec0a2acb04db0865b6cc9e52f91002364/classes.dex" />
+    </item>
+
+</items>
